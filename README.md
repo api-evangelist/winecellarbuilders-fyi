@@ -64,5 +64,131 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-WineCellarBuilders is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://winecellarbuilders.fyi
+WineCellarBuilders operates a marketplace connecting homeowners with professional wine cellar specialists worldwide. The platform offers tools to browse, compare, and hire vetted builders, providing guides, budgeting calculators, and a curated product catalog. Its free, read‑only API at https://winecellarbuilders.fyi/api/v1 delivers listings of specialists and related resources without authentication. The site also hosts extensive guides on cellar design, maintenance, and cost considerations, supporting users from initial research through project completion.
+
+**Areas:** Company · Marketplace · Wine · HomeImprovement · API
+
+## WineCellarBuilders on APIs.io
+
+Everything profiled for WineCellarBuilders is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/winecellarbuilders-fyi/](https://apis.io/providers/winecellarbuilders-fyi/)** — or go straight to one of the APIs or properties below.
+
+### APIs (11)
+
+- [WineCellarBuilders Academy API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-academy-api/) — The Academy API from WineCellarBuilders — 2 operation(s) for academy.
+- [WineCellarBuilders Admin API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-admin-api/) — The Admin API from WineCellarBuilders — 166 operation(s) for admin.
+- [WineCellarBuilders Categories API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-categories-api/) — The Categories API from WineCellarBuilders — 1 operation(s) for categories.
+- [WineCellarBuilders Certificates API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-certificates-api/) — The Certificates API from WineCellarBuilders — 1 operation(s) for certificates.
+- [WineCellarBuilders Listings API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-listings-api/) — The Listings API from WineCellarBuilders — 2 operation(s) for listings.
+- [WineCellarBuilders Places API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-places-api/) — The Places API from WineCellarBuilders — 1 operation(s) for places.
+- [WineCellarBuilders Product Categories API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-product-categories-api/) — The Product Categories API from WineCellarBuilders — 1 operation(s) for product categories.
+- [WineCellarBuilders Products API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-products-api/) — The Products API from WineCellarBuilders — 2 operation(s) for products.
+- [WineCellarBuilders Sources API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-sources-api/) — The Sources API from WineCellarBuilders — 1 operation(s) for sources.
+- [WineCellarBuilders Sponsor API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-sponsor-api/) — The Sponsor API from WineCellarBuilders — 2 operation(s) for sponsor.
+- [WineCellarBuilders Stats API](https://apis.io/apis/winecellarbuilders-fyi/winecellarbuilders-fyi-stats-api/) — The Stats API from WineCellarBuilders — 1 operation(s) for stats.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [WineCellarBuilders Agentic Access](https://apis.io/agentic-access/winecellarbuilders-fyi/winecellarbuilders-fyi-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Certificate](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-certificate/)
+- [Course](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-course/)
+- [CourseDetail](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-course-detail/)
+- [Listing](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-listing/)
+- [ListingItem](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-listing-item/)
+- [Product](https://apis.io/schemas/winecellarbuilders-fyi/winecellarbuilders-fyi-product/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Winecellarbuilders Fyi Context](https://apis.io/jsonld/winecellarbuilders-fyi/winecellarbuilders-fyi-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [WineCellarBuilders API Rules](https://apis.io/rules/winecellarbuilders-fyi/winecellarbuilders-fyi-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [WineCellarBuilders Domain Security](https://apis.io/security/winecellarbuilders-fyi/winecellarbuilders-fyi-domain-security/)
+- [WineCellarBuilders Vulnerability Disclosure](https://apis.io/security/winecellarbuilders-fyi/winecellarbuilders-fyi-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://winecellarbuilders.fyi)
+- [Documentation](https://winecellarbuilders.fyi/developers)
+- [Getting started](https://winecellarbuilders.fyi/guides/how-to-choose-a-wine-cellar-builder)
+- [Support](https://winecellarbuilders.fyi/support)
+- [Terms of service](https://winecellarbuilders.fyi/terms)
+- [Privacy policy](https://winecellarbuilders.fyi/privacy)
+
+## API Evangelist rating
+
+**Kin Score 44.8** — developing · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.6 |
+| Contract quality | 51.9 |
+| Contract governance | 79.1 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 42.1 |
+| Access clarity | 17.0 |
+
+**Agent readiness 47.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | verified |
+| Event Surface Described | — |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | yes |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | — |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/winecellarbuilders-fyi/](https://apis.io/providers/winecellarbuilders-fyi/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for WineCellarBuilders: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/winecellarbuilders-fyi/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
